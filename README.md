@@ -42,7 +42,7 @@ Profolio는 개발자를 위한, 쉽고 빠르게 제작 할 수 있는 정적 �
 
 ```bash
 git commit -m 'initial project'
-git push - u origin master
+git push -u origin master
 ```
 
 6. github Settings에서 pages로 이동하여, Source를 main branch로 바꿔줍니다.
